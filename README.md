@@ -2,7 +2,7 @@
 
 **Varianta:** (a) Jednoduchá databázová aplikace  
 **Téma:** Správa inzerce v autobazaru  
-**Autor:** [Tvé Jméno / Suttner]  
+**Autor:** Patrik Suttner  
 
 Tato aplikace slouží k evidenci a správě inzerátů motorových vozidel. Byla vytvořena jako semestrální práce pro předmět BCSH1.
 
